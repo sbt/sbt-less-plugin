@@ -8,6 +8,7 @@ libraryDependencies ++= Seq(
   "org.webjars.npm" % "clone" % "2.0.0",
   "org.webjars" % "mkdirp" % "0.5.0",
   "org.webjars.npm" % "clean-css" % "4.2.1",
+  "org.webjars.npm" % "less-plugin-clean-css" % "1.5.1" intransitive(),
   "org.webjars.npm" % "es6-promise" % "4.2.8"
 )
 
